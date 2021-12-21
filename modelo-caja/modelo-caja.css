@@ -1,0 +1,38 @@
+body {
+	/* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7p4Sw78gV8Ttk6MqXPun7eaw7GXoN6QXkiw&usqp=CAU); */
+	background-image: url(https://images.unsplash.com/photo-1550537687-c91072c4792d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
+	/* background-image: url(https://images.squarespace-cdn.com/content/v1/5372e4d2e4b0fca9449770f9/1553141168373-G98ICOW1KUMZQSGAAIDN/diana-toledano_winter-forest-pattern.png?format=750w); */
+	background-repeat: repeat;
+	/* background-size: cover; */
+	background-size: auto;
+}
+.title {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: antiquewhite;
+}
+.subtitle {
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.caja {
+	width: 200px;
+	height: 200px;
+	font-size: 50px;
+	/* margin: 20px; */
+	margin-bottom: 20px;
+	padding: 20px;
+}
+.caja-roja {
+	/* background-color: crimson; */
+	border-bottom: 5px dotted red;
+	border-right: 5px dashed red;
+}
+.caja-azul {
+	/* background-color: blue; */
+	border: 2px solid blue;
+}
+.caja-verde {
+	/* background-color: darkgreen; */
+	border: 15px ridge green;
+	border-radius: 80px;
+}

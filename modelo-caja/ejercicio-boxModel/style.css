@@ -1,0 +1,40 @@
+body {
+	background-color: seagreen;
+}
+.titulo {
+	color: antiquewhite;
+	text-shadow: 2px 2px black;
+}
+.caja {
+	height: auto;
+	width: 50%;
+	padding: 12px;
+	margin: 12px 0px;
+}
+.blanca {
+	margin-right: auto;
+	margin-left: auto;
+	background-color: antiquewhite;
+	border-radius: 15px;
+	border: 6px solid black;
+}
+.brown {
+	border-radius: 15px;
+	background-color: rgb(204, 109, 58);
+	border: 9px solid rgb(145, 30, 30);
+	color: beige;
+}
+.blue {
+	margin: auto;
+	background-color: blue;
+	color: cornsilk;
+	border-radius: 15px;
+	border: 4px dashed darkcyan;
+}
+.kaki {
+	margin-left: 50%;
+	margin-right: 30%;
+	border: 9px solid rgb(165, 76, 12);
+	color: whitesmoke;
+	background-color: rgb(187, 137, 71);
+}
