@@ -1,0 +1,28 @@
+* {
+	font-size: 14px;
+}
+.title {
+	font-weight: bold;
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	font-size: 30px;
+}
+body {
+	background-color: rgb(44, 107, 68);
+}
+.texto1-4 {
+	color: white;
+	font-family: monospace;
+	font-style: italic;
+}
+.texto2-7 {
+	color: wheat;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.texto3-5 {
+	color: rgb(214, 162, 18);
+	font-family: Tahoma;
+}
+.texto6-8 {
+	color: crimson;
+	font-family: sans-serif;
+}

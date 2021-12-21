@@ -1,0 +1,43 @@
+* {
+	padding: auto;
+}
+/* 
+*Comentario en CSS 
+*/
+
+.encabezado {
+	/*tamaño de la fuente media en Pixeles*/
+	font-size: 60px;
+	/* color de la fuente en h1 */
+	color: blue;
+	/* color de fondo  */
+	background-color: #fbff24;
+	/* Centrar Texto */
+	text-align: center;
+	text-transform: uppercase;
+}
+body {
+	background-color: grey;
+}
+/* 
+* Especificidad 10 */
+.texto {
+	color: wheat;
+	background-color: darkslategrey;
+	font-size: 24px;
+	font-style: italic;
+}
+/* Especificidad 100 */
+#texto {
+	color: chartreuse;
+}
+/* 
+* De estos dos estilos para parrafo siempre se aplicara el ultimo en ser declarado */
+p {
+	color: white;
+	background-color: dimgray;
+}
+p {
+	color: yellow;
+	background-color: teal;
+}
